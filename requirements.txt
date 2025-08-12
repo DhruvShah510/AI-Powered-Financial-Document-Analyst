@@ -1,0 +1,10 @@
+langchain
+transformers
+torch
+accelerate
+faiss-cpu
+sentence-transformers
+pypdf
+langchain-community
+streamlit
+pyngrok
